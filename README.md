@@ -34,6 +34,6 @@ VishalVerma Email : vishalvermayt@gmail.com
 
 <h1>Link :</h1>
 
-URL : vishalverma781.github.io/Simon_Game/
+url : vishalverma781.github.io/Simon_Game/
 
 
