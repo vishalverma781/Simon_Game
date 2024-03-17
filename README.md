@@ -30,10 +30,10 @@
 
 <h1>Author :</h1>
 
-<p>VishalVerma Email : vishalvermayt@gmail.com</p>
+VishalVerma Email : vishalvermayt@gmail.com
 
 <h1>Link :</h1>
 
-<P>URL : vishalverma781.github.io/Simon_Game/</P>
+URL : vishalverma781.github.io/Simon_Game/
 
 
