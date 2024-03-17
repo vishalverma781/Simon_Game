@@ -34,6 +34,6 @@
 
 <h1>Link :</h1>
 
-<P>URL :</P>
+<P>URL : vishalverma781.github.io/Simon_Game/</P>
 
 
